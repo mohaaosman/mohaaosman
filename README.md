@@ -1,34 +1,35 @@
 ![header](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Mohamed%20Osman&textBg=false&animation=blink&fontColor=00FF00)
 
-## 💡 About Me
-I'm a passionate **developer, strategist, and tech entrepreneur** building products and platforms that connect people, simplify processes, and drive impact.  
-From **fintech innovations** to **data-driven platforms**, I bring ideas to life with a focus on **scalability, efficiency, and real-world utility.**
+## About Me
+I am a technology strategist, product builder, and entrepreneur focused on delivering scalable and efficient solutions that address complex business and societal challenges.  
+My work spans from fintech platforms and AI-driven tools to data ecosystems and digital infrastructure for emerging markets.  
 
-I love working at the intersection of **technology, design, and business**, crafting solutions that blend user needs with technical excellence.
-
----
-
-## 🔧 Technologies & Tools
-- **Languages:** PHP (Laravel), Typescript (React, Inertia.js), Go (Golang), SQL
-- **Tools:** Docker, RabbitMQ, MySQL, Redis, Forge, Ploi, DigitalOcean, Typesense
-- **Other:** FilamentPHP, TailwindCSS, API Integrations, SaaS Architecture, Microservices
+I am particularly driven by opportunities that combine technology, design, and business to create sustainable, impactful systems.
 
 ---
 
-## 🌍 Vision
-> "Build systems that work, connect, and empower."
-
-I believe technology should solve real-world problems and open doors, not close them.  
-I'm passionate about **bridging gaps in embedded systems, data, and innovation**, especially in emerging markets.
+## Technologies & Tools
+- **Languages & Frameworks:** PHP (Laravel, FilamentPHP), Typescript (React, Inertia.js), Go (Gin), SQL (MySQL, PostgreSQL)
+- **DevOps & Infrastructure:** Docker, Kubernetes, RabbitMQ, Forge, Ploi, DigitalOcean, Cloudflare
+- **Data & Search:** Typesense, Redis, Elasticsearch, MongoDB
+- **UI/UX & Frontend:** TailwindCSS, Figma, Vue.js
+- **Other Tools:** Git, Bash, Linux, Supervisor, SaaS Architecture, Microservices, API Integrations
 
 ---
 
-## 📈 Let's Connect
-- 🌐 [LinkedIn](https://www.linkedin.com/in/mohaaosman)
-- 💬 [X](https://x.com/moha_a_osman)
-- 📩 Reach me at: `mohaaosman12@gmail.com`  
+## Vision
+Technology must be designed to **solve real-world problems, enable businesses to scale efficiently, and drive inclusive innovation.**  
+My focus is on **bridging gaps in data accessibility, financial inclusion, and digital infrastructure**, particularly in underrepresented markets.  
+I believe in building **secure, efficient, and adaptive platforms** that serve both business and society.
 
+---
 
+## Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/mohaaosman)
+- [X (formerly Twitter)](https://x.com/moha_a_osman)
+- Email: `mohaaosman12@gmail.com`
+
+---
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
