@@ -74,20 +74,6 @@ I design architectures that scale in the real world — not just in demos. My wo
 
 ## GitHub Metrics
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mohaaosman&show_icons=true&hide_border=true&icon_color=A855F7&title_color=A855F7&text_color=C9D1D9&bg_color=0D1117&count_private=true&include_all_commits=true"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=mohaaosman&show_icons=true&hide_border=true&icon_color=6D28D9&title_color=6D28D9&text_color=1E1B4B&bg_color=F5F3FF&count_private=true&include_all_commits=true"/>
-    <img height="175em" src="https://github-readme-stats.vercel.app/api?username=mohaaosman&show_icons=true&hide_border=true&icon_color=A855F7&title_color=A855F7&text_color=C9D1D9&bg_color=0D1117&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  </picture>
-  &nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mohaaosman&layout=compact&hide_border=true&title_color=A855F7&text_color=C9D1D9&bg_color=0D1117&langs_count=8"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mohaaosman&layout=compact&hide_border=true&title_color=6D28D9&text_color=1E1B4B&bg_color=F5F3FF&langs_count=8"/>
-    <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohaaosman&layout=compact&hide_border=true&title_color=A855F7&text_color=C9D1D9&bg_color=0D1117&langs_count=8" alt="Top Languages"/>
-  </picture>
-</div>
-
 <br/>
 
 <div align="center">
