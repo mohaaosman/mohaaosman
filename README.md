@@ -1,6 +1,8 @@
-Hi, I'm Mohamed. I'm a software architect in Mogadishu, Somalia.
+Hi, I'm Mohamed. I solve problems with software, from Mogadishu, Somalia.
 
-I've been building software professionally since 2016, mostly large web platforms in Laravel and React. I write the spec before the code, and I build for the conditions people actually have.
+I don't start from a stack. I start from the problem: take the system apart, find what's really happening, then build what fixes it. Sometimes that means reverse-engineering an app to see which APIs it calls. Sometimes it's a server, a dashboard, or a phone that won't boot.
+
+I've done this for 10 years, across architecture, cloud infrastructure and data. Mostly Laravel and React on MySQL, deployed on AWS, DigitalOcean and plain Linux servers.
 
 I also teach. Helping engineers grow is the part of the work I enjoy most.
 
